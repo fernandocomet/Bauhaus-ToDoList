@@ -1,20 +1,72 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Bauhaus ToDoList
 
-# Run and deploy your AI Studio app
+A modern and minimalist **ToDo List Web App** featuring clean typography, geometric forms, and functional design inspired by the Bauhaus movement.
 
-This contains everything you need to run your app locally.
+## 🎨 Design & Prototyping
 
-View your app in AI Studio: https://ai.studio/apps/60cde06a-f50b-4393-9fb6-917a0fc89769
+This project was conceived and developed through a comprehensive design process:
 
-## Run Locally
+- **Design Phase**: Created with [Google Stitch](https://stitch.withgoogle.com/) for design system organization
+- **Interactive Prototyping**: Built an interactive prototype in [Google AI Studio](https://aistudio.google.com/) 
+- **Design Refinement**: Enhanced and optimized using [Google Antigravity](https://antigravity.google/) for advanced design iterations
 
-**Prerequisites:**  Node.js
+## ✨ Features
 
+- ✅ Create, edit, and delete tasks
+- ✅ Clean and intuitive user interface
+- ✅ Responsive design
+- ✅ Bauhaus-inspired minimalist aesthetics
+- ✅ Task persistence (if applicable)
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠 Tech Stack
+
+- **React 18** - UI framework
+- **TypeScript** - Type-safe JavaScript
+- **Vite** - Fast build tool and dev server
+- **[Add any additional libraries you use]**
+
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/fernandocomet/Bauhaus-ToDoList.git
+
+# Navigate to the project
+cd Bauhaus-ToDoList
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
+```
+
+## 🚀 Build
+
+```bash
+npm run build
+```
+
+## 📝 Development
+
+```bash
+npm run dev
+```
+
+The app will be available at `http://localhost:5173` (or the port Vite assigns)
+
+## 🌐 Deployment
+
+This project is deployed on **Vercel**: [Your live URL here]
+
+## 📄 License
+
+[Add your license here - MIT, Apache 2.0, etc.]
+
+## 👤 Author
+
+Fernando Comet
+
+---
+
+*Bauhaus ToDoList - Bringing functional design principles to task management.*
